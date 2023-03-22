@@ -1,4 +1,46 @@
 body
 {
-    background-color: #2E3840;
+    background-color: #F9DBBB;
+}
+
+.row
+{
+    padding: 50px 0;
+}
+
+p
+{
+    font-size: 30px;
+    font-family: 'Alkatra', cursive;
+    color: #4E6E81;
+}
+
+a
+{
+    color: #4E6E81;
+    padding: 0% 0% 0% 45%; 
+    font-family: 'Alkatra', cursive;
+    font-size: 65px;
+}
+
+.left
+{
+    text-align: left;
+}
+
+.right
+{
+    text-align: right;
+}
+
+.container
+{
+    background-color: white;
+    border-radius: 10px;
+    outline-style: auto;
+}
+
+.container:hover
+{
+
 }
